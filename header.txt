@@ -1,2 +1,9 @@
 some text
+
 change from main - new
+change firt
+ 4c6417a (add footer)
+:wq
+
+:wq
+
